@@ -1,0 +1,5 @@
+1. why assignment is not necessary in i++.
+   and necessary in i = i+1
+2. Password field include in the data (json)_
+check the user from the List-- if exists then successful
+else fail. (method exists in List)
